@@ -4,7 +4,7 @@ const { user, pass } = require('./config');
 const sendMail = async (data) => {
   let transporter = nodemailer.createTransport({
     host: 'smtp.163.com',
-    port: '465',
+    port: '25',
     secureConnection: true,
     auth: {
       user,
