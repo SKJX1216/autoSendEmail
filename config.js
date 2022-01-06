@@ -9,5 +9,5 @@ module.exports = {
   location: '101190113',  // 和风天气-成都武侯区的id
   type: '1,3,9', // 和风天气-生活指数type
   tianXingKey: '80691be4abc7d763bb992683fe0cec16', // 天行数据的key
-  startDay: '2019-04-25', // 在一起的日期
+  startDay: '2019-04-05', // 在一起的日期
 }
